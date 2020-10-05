@@ -4,6 +4,5 @@
 ![image](https://user-images.githubusercontent.com/13598741/95079558-6a6aa580-0734-11eb-8d9e-70c3b06b4a1d.png)
 
 <p align="center">
-
   https://jedidiahjohnnagarajan.github.io/InternetWorks/
 </p>
