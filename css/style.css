@@ -236,7 +236,8 @@ fieldset, legend, label, select, input, textarea, form, button, optgroup {
   background-image: linear-gradient(to bottom, #ffffff 0%, #ffffff 100%);
 }
 
-a, .apo-pagination > li > a, .apo-pagination .current, .apo-filter a, .apo-filter a.apo-active, .apo-full-page-controls .apo-language, .apo-widget-area a, .apo-entry-tags a, .apo-entries-container.apo-style-2 .apo-entry a:not(.apo-btn), .apo-entries-container.apo-style-3 .apo-entry a:not(.apo-btn), .apo-entries-container.apo-style-4 .apo-entry a:not(.apo-btn), .apo-entry.apo-single .apo-entry-meta a, .comments-list .reply, .apo-contact-section-body .apo-contact-info a, .apo-contact-section-footer a {
+.apo-pagination > li > a, .apo-pagination .current, .apo-filter a, .apo-filter a.apo-active, .apo-full-page-controls .apo-language, .apo-widget-area a, .apo-entry-tags a, .apo-entries-container.apo-style-2 .apo-entry a:not(.apo-btn), .apo-entries-container.apo-style-3 .apo-entry a:not(.apo-btn), .apo-entries-container.apo-style-4 .apo-entry a:not(.apo-btn), .apo-entry.apo-single .apo-entry-meta a, .comments-list .reply, .apo-contact-section-body .apo-contact-info a, .apo-contact-section-footer
+a {
   background-image: linear-gradient(to bottom, #000000 0%, #000000 100%);
 }
 
@@ -4234,7 +4235,7 @@ table {
 }
 
 /* ------------------------------------------------------
-        7.22. Full Page 
+        7.22. Full Page
     ------------------------------------------------------ */
 .apo-full-page-container {
   z-index: 2;
@@ -4503,7 +4504,7 @@ table {
 }
 
 /* ------------------------------------------------------
-        7.23. Experience List 
+        7.23. Experience List
     ------------------------------------------------------ */
 .apo-experience-list {
   margin-top: -35px;
@@ -4585,7 +4586,7 @@ table {
 }
 
 /* ------------------------------------------------------
-        7.24. Services 
+        7.24. Services
     ------------------------------------------------------ */
 .apo-services {
   margin-top: -30px;
@@ -4604,7 +4605,7 @@ table {
 }
 
 /* ------------------------------------------------------
-        7.25. Call to Action 
+        7.25. Call to Action
     ------------------------------------------------------ */
 .apo-cta {
   font-family: "Poppins", sans-serif;
@@ -8792,7 +8793,7 @@ table {
   .apo-header-section.apo-sticky.apo-sticked {
     position: relative;
   }
-  
+
 }
 
 @media all and (max-width: 650px) {
